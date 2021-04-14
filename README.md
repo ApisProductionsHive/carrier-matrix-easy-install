@@ -1,10 +1,13 @@
 # Carrier Matrix Easy Installation Plugin
 
 === Carrier Matrix Shortcodes ===
+
 Contributors: Jeffery Karbowski
+
 Tags: Carrier Matrix, Shortcode, Installation, Agency, Apis Productions
 
 == Description ==
+
 Allows for easy installation of the Carrier Matrix search application using a Wordpress shortcode.
 
 == Installation ==
