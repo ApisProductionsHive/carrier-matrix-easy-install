@@ -1,4 +1,4 @@
-# carrier-matrix-easy-install
+# Carrier Matrix Easy Installation Plugin
 
 === Carrier Matrix Shortcodes ===
 Contributors: Jeffery Karbowski
