@@ -197,7 +197,7 @@ class CarrierMatrixEasyInstallation {
         if (!empty($form)) {
             echo '<carrier-matrix form="'.$form.'" button-text="'.$button_text.'" api-key="'.$carrier_matrix_options['cm_api_key'].'" agency-id="'.$carrier_matrix_options['cm_agency_id'].'"></carrier-matrix>';
         } else if (!empty($results)) {
-            echo '<carrier-matrix  results="'.$results.'" resultsHeight="'.$results_height.'"></carrier-matrix>';
+            echo '<carrier-matrix  results="'.$results.'" results-height="'.$results_height.'"></carrier-matrix>';
         }
         return ob_get_clean();
     }
