@@ -216,6 +216,6 @@ $apisUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 
 
 $apisUpdateChecker->setBranch('main');
-$apisUpdateChecker->setAuthentication('55fc9310055924d57bd72f9d496d820f3036829e');
+$apisUpdateChecker->setAuthentication('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');
 
 ?>
