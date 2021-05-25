@@ -333,6 +333,6 @@ $apisUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 
 
 $apisUpdateChecker->setBranch('main');
-$apisUpdateChecker->setAuthentication('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');
+
 
 ?>
