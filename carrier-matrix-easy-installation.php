@@ -10,7 +10,7 @@ Author: Apis Productions
 
 Author URI: http://www.apisproductions.com/
 
-Version: 1.1.0
+Version: 1.1.1
 
 */
 
