@@ -10,7 +10,7 @@ Author: Apis Productions
 
 Author URI: http://www.apisproductions.com/
 
-Version: 1.1.1
+Version: 1.1.2
 
 */
 
@@ -293,7 +293,7 @@ class CarrierMatrixEasyInstallation {
     }
 
     public function carrier_matrix_handler_callback($form, $results, $button_text, $results_height, $cm_heading_color, $cm_heading_hover_color, $cm_heading_open_color, $cm_heading_text_color) {
-        wp_register_script( 'carrier-matrix-app', 'https://idacmstaging.wpengine.com/carrier-matrix/app.js' , '', time(), true );
+        wp_register_script( 'carrier-matrix-app', 'https://carriermatrix.com/carrier-matrix/app.js' , '', time(), true );
         wp_enqueue_script('carrier-matrix-app');
         $carrier_matrix_options = get_option('carrier_matrix_options');
 
